@@ -1,0 +1,168 @@
+============================================
+DEPARTMENTS & FACULTY
+============================================
+
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING (CSE)
+Head: Dr. Rajesh Kumar (PhD from IIT Bombay)
+Faculty: 40 members (30 with PhDs)
+Specializations: AI, Machine Learning, Data Science, Cloud Computing, Cybersecurity, Blockchain, NLP
+
+Key Facilities:
+- AI & ML Lab with GPU clusters (80+ NVIDIA GPUs)
+- Cloud Computing Lab with AWS, Azure, GCP infrastructure
+- Cybersecurity Lab with ethical hacking tools
+- Computer Vision Lab with deep learning frameworks
+- Coding Arena with online judge system
+
+Notable Achievements:
+- 300+ research papers in top-tier conferences (ICML, NeurIPS, CVPR)
+- 30+ funded research projects worth Rs 5 Crores
+- Industry partnerships with Google, Microsoft, Amazon, Meta
+- Student hackathon wins: 20+ national and international hackathons
+- Internship offers: 100% placement from top tech companies
+
+---
+
+DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
+Head: Prof. Ananya Sharma (M.Tech from IIT Hyderabad)
+Faculty: 35 members (25 with PhDs)
+Specializations: VLSI Design, Embedded Systems, IoT, Signal Processing, 5G Networks, RF Design
+
+Key Facilities:
+- VLSI Design Lab with Cadence, Mentor Graphics tools
+- Embedded Systems Lab with 200+ microcontroller boards
+- IoT Lab with sensors, Arduino, Raspberry Pi, wireless modules
+- RF & Microwave Lab with measurement equipment
+- Prototype Lab for hardware development
+
+Notable Achievements:
+- VLSI Design Competition Winners at national level
+- 50+ patents in semiconductor design
+- Industry collaboration with Texas Instruments, Qualcomm, Broadcom
+- 25+ research papers in international journals
+- Hardware product development: 15+ prototypes commercialized
+
+---
+
+DEPARTMENT OF ARTIFICIAL INTELLIGENCE & DATA SCIENCE
+Head: Dr. Vikram Patel (PhD from Stanford, Ex-Google Research Scientist)
+Faculty: 28 members (24 with PhDs)
+Specializations: Deep Learning, NLP, Computer Vision, Big Data Analytics, MLOps
+
+Key Facilities:
+- High-Performance Computing Cluster (Supercomputer with 1000+ GPU cores)
+- Big Data Lab with Hadoop, Spark, Kafka infrastructure
+- NLP Lab with transformer models and LLM frameworks
+- Computer Vision Lab with real-time processing systems
+- Data Engineering Lab with ETL tools and data pipelines
+
+Notable Achievements:
+- 80+ research papers in AI/ML top-tier venues
+- 15 ongoing AI research projects worth Rs 8 Crores
+- Google Research collaboration: 5+ joint publications
+- Industry partnerships: Meta, OpenAI, DeepMind (mentorship)
+- AI Cup Winners: National and International competitions
+
+---
+
+DEPARTMENT OF MECHANICAL ENGINEERING (ME)
+Head: Dr. Suresh Nair (PhD from IIT Madras, Patent Holder)
+Faculty: 32 members (22 with PhDs)
+Specializations: Thermodynamics, Thermal Engineering, CAD/CAM, Robotics, Renewable Energy, Manufacturing
+
+Key Facilities:
+- Advanced CAD/CAM Lab with CATIA, Solidworks, ANSYS
+- CNC Machine Shop with 20+ CNC machines
+- Robotics Lab with industrial robots and simulation
+- Thermal Engineering Lab with test rigs
+- Renewable Energy Lab (Solar, Wind, Hydro models)
+- Manufacturing Lab with rapid prototyping
+
+Notable Achievements:
+- 40+ patents in mechanical design and renewable energy
+- Shell Eco-marathon participants (3 consecutive wins)
+- SAE India Vehicle Dynamics Competition: Top 10 finalists
+- Industry partnerships: L&T, Bosch, Siemens, Tata Motors
+- 30+ research projects in thermal and renewable energy
+
+---
+
+DEPARTMENT OF CIVIL ENGINEERING (CIVIL)
+Head: Prof. Meera Nair (PhD from IIT Delhi)
+Faculty: 25 members (18 with PhDs)
+Specializations: Structural Engineering, Transportation, Water Resources, Environmental Engineering, Smart Cities
+
+Key Facilities:
+- Structural Testing Lab with 500-ton capacity testing machine
+- Geotechnical Engineering Lab with soil testing equipment
+- Fluid Mechanics Lab with flow visualization systems
+- CAD Lab with STAAD.Pro, SAP2000, ETABS
+- Model Workshop for scale model testing
+- Environmental Monitoring Station
+
+Notable Achievements:
+- 35+ research papers in structural and environmental engineering
+- 10 consulting projects for local government
+- Bridge design competition winners (3 national wins)
+- Smart city projects: 5 cities as case studies
+- Green building certifications: LEED consultation expertise
+
+---
+
+DEPARTMENT OF INFORMATION TECHNOLOGY (IT)
+Head: Dr. Arjun Singh (PhD from IIT Delhi)
+Faculty: 30 members (22 with PhDs)
+Specializations: Software Engineering, Web Development, DevOps, Database Systems, Software Security
+
+Key Facilities:
+- DevOps Lab with CI/CD pipeline setup (Jenkins, Docker, Kubernetes)
+- Web Development Lab (MERN, Django, Laravel stacks)
+- Database Lab with Oracle, MySQL, MongoDB, PostgreSQL
+- Software Testing Lab with automation frameworks
+- Security Lab with penetration testing tools
+- Enterprise Software Lab with industry-standard tools
+
+Notable Achievements:
+- 45+ research papers in software engineering
+- Bug bounty winners: 100+ successful security vulnerabilities found
+- Software product development: 10+ startup products from students
+- Industry partnerships: TCS, Infosys, Accenture, Cognizant
+- Annual Hackathon: 500+ participants from 50+ colleges
+
+---
+
+INTERDISCIPLINARY CENTERS
+
+Center for Research & Innovation (CRI)
+- Facilitates cross-department research projects
+- Annual funding: Rs 5 Crores for research
+- 50+ active research projects
+- Industry collaboration desk
+
+Center for Entrepreneurship & Startup Incubation
+- Incubates 50+ startups annually
+- Seed funding: Rs 10 Lakhs to Rs 1 Crore
+- Mentorship from industry leaders
+- 30+ startups graduated with combined valuation Rs 500+ Crores
+
+Center for Industry Collaboration
+- 150+ active industry partnerships
+- Guest lectures by industry experts (weekly)
+- Internship placement coordination
+- Funded research with companies
+
+Center for Teaching Excellence
+- Faculty development programs
+- Pedagogical innovation workshops
+- Online course development
+- Teaching awards and recognition
+
+---
+
+FACULTY DEVELOPMENT
+- Annual International Conference Attendance: 50+ faculty members
+- Faculty Exchange Program with 20+ international universities
+- Industry Sabbatical: Every faculty gets 1 year sabbatical every 7 years
+- Certification Programs: AWS, Azure, Google Cloud certifications
+- Research Grants: Average Rs 20-50 Lakhs per faculty member annually
+- Teaching Methodology Workshops: Quarterly training programs

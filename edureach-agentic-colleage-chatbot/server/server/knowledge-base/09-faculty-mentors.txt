@@ -1,0 +1,303 @@
+============================================
+FACULTY PROFILES & MENTORS
+============================================
+
+DISTINGUISHED FACULTY MEMBERS
+
+Department of Computer Science & Engineering
+
+Dr. Rajesh Kumar - Department Head, CSE
+- Qualification: PhD Computer Science (IIT Bombay)
+- Experience: 20+ years in academia and research
+- Specialization: Machine Learning, Artificial Intelligence, Deep Learning
+- Research Papers: 50+ publications in top-tier conferences (ICML, NeurIPS, CVPR)
+- Patents: 8 patents filed in AI domain
+- Industry Collaboration: Google Research, Microsoft Research, Facebook AI
+- Current Projects: 5 ongoing research projects with Rs 2 Crores funding
+- Teaching: Core CS courses, Advanced ML, AI Seminars
+- Contact: rajesh.kumar@edureach.edu.in
+
+Prof. Arjun Verma - ML Engineer & Researcher
+- Qualification: M.Tech IIT Delhi, PhD ongoing from CMU
+- Experience: 15 years (5 years in industry at Google)
+- Specialization: Computer Vision, Object Detection, Segmentation
+- Research Papers: 30+ publications, H-index: 15
+- Industry: Previously Senior Engineer at Google, MIT Lab collaboration
+- Teaching: Computer Vision, Deep Learning, Neural Networks
+- Mentorship: Guiding 20+ research students
+- Contact: arjun.verma@edureach.edu.in
+
+Prof. Divya Patel - Data Science Expert
+- Qualification: PhD Statistics (Stanford University)
+- Experience: 18 years academia, 5 years at Meta
+- Specialization: Data Science, Big Data Analytics, MLOps
+- Achievements: Published 25+ papers, 500+ citations
+- Startup Advisor: Mentoring 10+ startups using data science
+- Teaching: Data Science, Statistical Learning, Big Data
+- Contact: divya.patel@edureach.edu.in
+
+---
+
+Department of Electronics & Communication Engineering
+
+Prof. Ananya Sharma - Department Head, ECE
+- Qualification: M.Tech VLSI Design (IIT Hyderabad)
+- Experience: 15 years (5 years at Texas Instruments)
+- Specialization: VLSI Design, Embedded Systems, IoT
+- Patents: 15 patents in semiconductor design
+- Industry: Led chip design projects at TI, published in IEEE
+- Teaching: VLSI, Embedded Systems, IoT, Microcontrollers
+- Contact: ananya.sharma@edureach.edu.in
+
+Dr. Vikram Nair - RF & Wireless Specialist
+- Qualification: PhD RF Engineering (IIT Madras)
+- Experience: 12 years, expert in 5G networks
+- Specialization: RF Design, 5G Networks, Wireless Communication
+- Patents: 20+ patents in wireless communication
+- Industry Collaboration: Qualcomm, Broadcom partnerships
+- Teaching: Electromagnetic Theory, RF Design, 5G Technology
+- Contact: vikram.nair@edureach.edu.in
+
+---
+
+Department of Artificial Intelligence & Data Science
+
+Dr. Vikram Patel - Department Head, AI-DS
+- Qualification: PhD Natural Language Processing (Stanford)
+- Experience: 20+ years, Ex-Google Research Scientist, Ex-OpenAI Engineer
+- Specialization: NLP, Large Language Models, Deep Learning, Transformers
+- Research Papers: 80+ papers in top-tier venues (800+ citations)
+- Patents: 30+ patents in AI/ML
+- Current Role: Research Lead at college, Industry Advisor to 5 companies
+- Teaching: Advanced Deep Learning, NLP, Transformer Models, LLMs
+- Awards: 5 best paper awards at international conferences
+- Contact: vikram.patel@edureach.edu.in
+
+Prof. Sneha Gupta - Computer Vision Researcher
+- Qualification: PhD Computer Vision (IIT Delhi)
+- Experience: 14 years, previously Microsoft Research
+- Specialization: Computer Vision, Image Processing, 3D Vision
+- Research Papers: 45+ published, 400+ citations
+- Projects: 8 ongoing government-funded research projects
+- Teaching: Computer Vision, Image Processing, 3D Reconstruction
+- Contact: sneha.gupta@edureach.edu.in
+
+Prof. Rohan Singh - Big Data & Cloud Computing
+- Qualification: M.Tech Cloud Computing (IIT Bombay)
+- Experience: 12 years, 5 years at Amazon AWS
+- Specialization: Big Data, Cloud Architecture, Distributed Systems
+- Certifications: AWS Solutions Architect, Google Cloud Professional
+- Teaching: Big Data Analytics, Cloud Computing, Hadoop, Spark
+- Contact: rohan.singh@edureach.edu.in
+
+---
+
+Department of Mechanical Engineering
+
+Dr. Suresh Nair - Department Head, ME
+- Qualification: PhD Mechanical Engineering (IIT Madras)
+- Experience: 25+ years, globally recognized in renewable energy
+- Specialization: Thermodynamics, Renewable Energy, Sustainable Engineering
+- Patents: 25+ patents in thermal and renewable energy systems
+- Industry: Consulting with major manufacturing companies
+- Teaching: Advanced Thermodynamics, Renewable Energy, Design
+- Research Funding: Rs 3 Crores from government and industry
+- Contact: suresh.nair@edureach.edu.in
+
+Prof. Meera Nair - Robotics & Automation
+- Qualification: M.Tech Robotics (IIT Delhi)
+- Experience: 12 years, previously Siemens India
+- Specialization: Robotics, Automation, CAD/CAM
+- Achievements: 10+ Shell Eco-Marathon winners from her labs
+- Teaching: Robotics, Automation, 3D Modeling, CNC Programming
+- Industrial Collaborations: L&T, Bosch, Siemens partnerships
+- Contact: meera.nair@edureach.edu.in
+
+---
+
+Department of Civil Engineering
+
+Prof. Arun Kumar - Department Head, CIVIL
+- Qualification: PhD Structural Engineering (IIT Delhi)
+- Experience: 20+ years in structural design and consulting
+- Specialization: Earthquake Engineering, Smart Cities, Sustainable Construction
+- Notable Projects: Designed structures for 50+ buildings across India
+- Government Contracts: 10+ consulting projects with state government
+- Teaching: Advanced Structural Design, Earthquake Engineering
+- Research: 3 ongoing earthquake resilience projects
+- Contact: arun.kumar@edureach.edu.in
+
+---
+
+Department of Information Technology
+
+Dr. Arjun Singh - Department Head, IT
+- Qualification: PhD Software Engineering (IIT Delhi)
+- Experience: 18 years, 5 years at Infosys as Architect
+- Specialization: Software Engineering, DevOps, Cloud Architecture
+- Patents: 12 patents in software engineering
+- Teaching: Software Design Patterns, DevOps, Enterprise Computing
+- Contact: arjun.singh@edureach.edu.in
+
+---
+
+RECOGNIZED SCHOLARS & RESEARCHERS
+
+Dr. Pradeep Sharma - AI Research Lead
+- 100+ research papers in top venues
+- H-index: 25, 2000+ citations
+- Google Scholar Profile: Highly cited researcher
+- Research Group: 30+ PhD and Postdoc researchers
+- Funding: Rs 5 Crores in active research grants
+- Areas: Machine Learning, Optimization, Data Science
+
+Dr. Neha Gupta - Cybersecurity Researcher
+- 60+ publications in cybersecurity journals
+- 15+ patents in security systems
+- Industry Partnerships: Microsoft Security, Google Security
+- Training: Trained 500+ students in ethical hacking
+- Competition: Directed team winning 20+ CTF competitions
+
+Prof. Rajat Verma - Startup Mentor
+- Co-founded 5 successful startups
+- Mentor to 50+ startup founders
+- Angel Investor: Invested in 15+ startups
+- Network: Connected to 100+ investors and VCs
+- Training: Teaches entrepreneurship and business development
+
+---
+
+FACULTY RECOGNITION & AWARDS
+
+National Awards:
+- 15+ faculty members received SERB (Science & Engineering Research Board) grants
+- 5+ Shanti Swarup Bhatnagar Prize for Science & Technology nominations
+- 10+ CSIR awards for research excellence
+
+International Recognition:
+- 20+ faculty members authored books published internationally
+- 50+ faculty invited speakers at international conferences
+- 30+ collaborative research projects with foreign universities
+- 8+ Fulbright Fellowship recipients among faculty
+
+College Awards:
+- Teaching Excellence Award: Annually given to 3 faculty members
+- Research Excellence Award: Annually given to 2 faculty members
+- Innovation Award: Annually for groundbreaking projects
+- Mentorship Award: For exceptional student mentoring
+- Community Service Award: For social contribution
+
+---
+
+FACULTY DEVELOPMENT PROGRAMS
+
+Professional Development:
+- Annual International Conference Participation: 50+ faculty attend
+- Workshop Attendance: 100+ faculty complete professional development workshops
+- Certification Programs: AWS, Azure, Google Cloud certifications for 30+ faculty
+- Industry Sabbatical: Every faculty eligible for 1-year sabbatical every 7 years
+
+Teaching & Pedagogical Excellence:
+- Online Teaching Workshops: Quarterly training programs
+- Active Learning Methods: Training on modern teaching approaches
+- Curriculum Development: Annual review and updates
+- Mentorship Skills: Training for student mentorship
+
+Research Support:
+- Research Grant Assistance: Help in proposal writing and funding applications
+- Publication Support: Editorial training and proofreading services
+- Research Infrastructure: Access to labs, computing resources, software licenses
+- Collaboration Support: Facilitation for inter-departmental and international collaborations
+
+---
+
+MENTORSHIP PROGRAM
+
+Faculty Mentors:
+- 400+ faculty members trained as mentors
+- Dedicated mentorship for 1200+ students
+- Ratio: 1 faculty to 3 students on average
+- Sessions: Monthly mentorship meetings
+- Focus: Career planning, personal development, academic guidance
+
+Mentorship Benefits:
+- Career Guidance: Direction for internships and job placements
+- Academic Support: Help in course selection and study strategies
+- Personal Development: Soft skills and communication training
+- Research Opportunities: Guidance for research projects
+- Networking: Introduction to industry professionals and alumni
+
+Alumni Mentors:
+- 1000+ alumni mentors available
+- Industry-specific mentorship groups
+- Monthly virtual sessions with mentors
+- Networking events with alumni leaders
+- Reverse mentorship: Senior students mentor juniors
+
+---
+
+VISITING FACULTY & GUEST LECTURES
+
+Guest Lectures:
+- Frequency: 1-2 guest lectures per week
+- Speakers: Industry professionals, researchers, entrepreneurs
+- Topics: Latest trends, case studies, research presentations
+- Attendance: Open to all students, 50-200+ attendees per session
+
+Visiting Researchers:
+- 5+ visiting researchers from international universities annually
+- Collaboration: Joint research projects, publications
+- Knowledge Transfer: Seminars and workshops
+- Duration: 3 months to 1 year
+
+Industry Collaborations:
+- 150+ industry partnerships
+- Joint training programs: 20+ annually
+- Placement talks: 100+ company presentations yearly
+- Project collaborations: 50+ industry-sponsored student projects
+
+---
+
+FACULTY CONTACT & OFFICE HOURS
+
+Main Faculty Office:
+- Building: Academic Complex, Block A
+- Phone: +91-40-23894561 Ext. 1000
+- Email: faculty@edureach.edu.in
+- Hours: 9 AM - 5 PM (Mon-Fri)
+
+Individual Faculty Office Hours:
+- Each faculty member: 5-10 hours per week available for student meetings
+- Booking: Through online appointment system
+- Email: Direct communication for urgent matters
+- Emergency Contact: Department head for urgent faculty assistance
+
+Department Heads Contact:
+- CSE: rajesh.kumar@edureach.edu.in
+- ECE: ananya.sharma@edureach.edu.in
+- AI-DS: vikram.patel@edureach.edu.in
+- ME: suresh.nair@edureach.edu.in
+- CIVIL: arun.kumar@edureach.edu.in
+- IT: arjun.singh@edureach.edu.in
+
+---
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: How do I schedule a meeting with a faculty member?
+A: Use the online appointment portal on student portal or email directly.
+
+Q: Can I work on a research project with a faculty member?
+A: Yes, approach faculty with specific interest. Form varies by department.
+
+Q: Do faculty members provide career guidance?
+A: Yes, all mentors provide career guidance as part of mentorship.
+
+Q: Can I audit a course taught by a specific faculty?
+A: Yes, with faculty and departmental permission. Auditing is free.
+
+Q: Are faculty available during exam time for doubt clearing?
+A: Yes, special doubt clearing sessions scheduled during exam period.
+
+Q: Can I pursue research with a faculty member while studying?
+A: Yes, many students work on research projects alongside coursework.

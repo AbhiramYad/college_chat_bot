@@ -1,0 +1,169 @@
+============================================
+COURSES & PROGRAMS OFFERED
+============================================
+
+UNDERGRADUATE PROGRAMS (B.Tech - 4 Years)
+
+COMPUTER SCIENCE & ENGINEERING (CSE)
+Seats: 300 (General: 150, Reserved: 150)
+Curriculum: Core CS + AI/ML/Cloud/Cybersecurity electives
+Key Subjects: Data Structures, Algorithms, DBMS, OS, Networks, Compilers, ML, Deep Learning, NLP, Cloud Computing, Cybersecurity
+Labs: Programming Lab, Data Structures Lab, Web Development Lab, AI Lab, Cloud Lab, Cyber Lab
+Internship: Mandatory 6-week internship in 6th semester with top tech companies
+Career Path: Software Developer, Data Scientist, ML Engineer, Cloud Architect, Cybersecurity Engineer
+Average Package (2023-24): Rs 15.5 LPA | Highest: Rs 65 LPA | Companies: Google, Microsoft, Amazon, Meta, PayPal
+
+---
+
+ARTIFICIAL INTELLIGENCE & DATA SCIENCE (AI-DS)
+Seats: 120 (General: 60, Reserved: 60)
+Curriculum: Advanced AI, Machine Learning, Deep Learning, Big Data, NLP, Computer Vision
+Key Subjects: Linear Algebra, Statistics, ML Algorithms, Deep Learning, NLP, Computer Vision, Reinforcement Learning, MLOps, Big Data Analytics
+Labs: AI Lab, GPU Computing Lab, NLP Lab, CV Lab, Big Data Lab
+Specialization Options: Healthcare AI, Financial AI, Computer Vision, NLP
+Internship: Mandatory 8-week internship at AI-focused companies
+Career Path: Data Scientist, ML Engineer, AI Research Scientist, Analytics Engineer
+Average Package: Rs 16.2 LPA | Highest: Rs 75 LPA | Companies: Google, Microsoft, Amazon, Meta, Flipkart, Swiggy, CRED
+
+---
+
+ELECTRONICS & COMMUNICATION ENGINEERING (ECE)
+Seats: 180 (General: 90, Reserved: 90)
+Curriculum: Circuit Theory, VLSI, Embedded Systems, IoT, Signal Processing
+Key Subjects: Network Theory, VLSI Design, Microprocessors, Embedded Systems, IoT, Signal Processing, 5G Networks, RF Design
+Labs: VLSI Lab, Embedded Systems Lab, IoT Lab, RF Lab, Communication Lab
+Internship: 6-week internship in telecom/semiconductor companies
+Career Path: VLSI Design Engineer, Embedded Systems Engineer, IoT Developer, Network Engineer, 5G Specialist
+Average Package: Rs 10.8 LPA | Highest: Rs 50 LPA | Companies: Texas Instruments, Qualcomm, Broadcom, Cisco, Nokia, Samsung
+
+---
+
+INFORMATION TECHNOLOGY (IT)
+Seats: 180 (General: 90, Reserved: 90)
+Curriculum: Similar to CSE with focus on Enterprise Applications and Web Technologies
+Key Subjects: Java Programming, Web Development, Database Systems, Software Engineering, DevOps, Enterprise Computing
+Labs: Web Dev Lab, Database Lab, DevOps Lab, Testing Lab, Enterprise Lab
+Specialization: Full-Stack Development, DevOps, Enterprise Architecture
+Internship: 6-week internship at IT companies and startups
+Career Path: Web Developer, Full-Stack Developer, DevOps Engineer, Enterprise Architect
+Average Package: Rs 12.5 LPA | Highest: Rs 55 LPA | Companies: TCS, Infosys, Accenture, Cognizant, HCL, Wipro
+
+---
+
+MECHANICAL ENGINEERING (ME)
+Seats: 120 (General: 60, Reserved: 60)
+Curriculum: Thermodynamics, CAD/CAM, Thermal Engineering, Robotics, Manufacturing
+Key Subjects: Thermodynamics, Heat Transfer, Fluid Mechanics, Design of Machine Elements, Manufacturing, Robotics, CAD/CAM, Renewable Energy
+Labs: Thermal Lab, CAD/CAM Lab, Robotics Lab, Manufacturing Lab, Renewable Energy Lab
+Specialization: Thermal Engineering, Manufacturing, Robotics, Renewable Energy
+Internship: 6-week internship at manufacturing/automotive companies
+Career Path: Mechanical Design Engineer, Thermal Engineer, Manufacturing Engineer, Robotics Engineer
+Average Package: Rs 8.5 LPA | Highest: Rs 40 LPA | Companies: L&T, Bosch, Siemens, Tata Motors, Hyundai, Suzuki
+
+---
+
+CIVIL ENGINEERING (CIVIL)
+Seats: 120 (General: 60, Reserved: 60)
+Curriculum: Structures, Transportation, Geotechnical, Environmental Engineering
+Key Subjects: Structural Analysis, RCC Design, Steel Design, Transportation Engineering, Geotechnical Engineering, Water Resources, Environmental Engineering
+Labs: Structural Testing Lab, Geotechnical Lab, Fluid Mechanics Lab, Surveying Lab
+Specialization: Structural Engineering, Transportation, Environmental, Water Resources
+Internship: 6-week internship at construction/infrastructure companies
+Career Path: Structural Engineer, Transportation Engineer, Geotechnical Engineer, Project Manager
+Average Package: Rs 7.5 LPA | Highest: Rs 35 LPA | Companies: L&T, Afcons, Gammon India, IIT Bombay (R&D)
+
+---
+
+POSTGRADUATE PROGRAMS
+
+MASTER OF TECHNOLOGY (M.Tech - 2 Years)
+Specializations:
+1. M.Tech Computer Science (CSE) - 50 seats
+   - Focus: Advanced Algorithms, Distributed Systems, AI/ML Research
+   - Thesis-based program with 6-month research project
+
+2. M.Tech VLSI Design (ECE) - 40 seats
+   - Focus: IC Design, Physical Design, Verification
+   - Industry collaboration with semiconductor companies
+
+3. M.Tech Power Systems (EEE) - 30 seats
+   - Focus: Smart Grids, Renewable Energy Integration
+   - Research in sustainable power systems
+
+4. M.Tech Structural Engineering (CIVIL) - 30 seats
+   - Focus: Advanced Analysis, Earthquake Engineering, Optimization
+   - Specialization in earthquake-resistant design
+
+Eligibility: B.Tech/BE with minimum 60% marks
+Admission: 50% through GATE, 50% through entrance exam
+Duration: 2 years (4 semesters + thesis)
+Average Placement: Rs 18 LPA
+Career Path: Research, Higher studies (PhD), Industry R&D
+
+---
+
+MASTER OF BUSINESS ADMINISTRATION (MBA - 2 Years)
+Specializations:
+1. Finance & Analytics (40 seats)
+   - Corporate Finance, Investment Management, Risk Analytics
+   - Industry Collaboration: Banking & Finance sector
+
+2. Technology & Innovation Management (40 seats)
+   - Tech Strategy, Digital Transformation, Innovation
+   - Industry Collaboration: Tech companies
+
+3. Entrepreneurship & Business Development (30 seats)
+   - Startup Fundamentals, Business Model Innovation
+   - Incubation support and seed funding
+
+4. Operations & Supply Chain Management (30 seats)
+   - Supply Chain Optimization, Manufacturing Management
+   - Industry Collaboration: Logistics & Manufacturing
+
+Eligibility: Bachelor's degree with minimum 50%
+Admission: CAT/MAT scores (80% weight) + Academic profile + Interview
+Duration: 2 years (4 semesters)
+Average Placement: Rs 12 LPA
+Career Path: Business Analyst, Project Manager, Entrepreneur, Operations Manager
+
+---
+
+PH.D. PROGRAMS (Research - 3 to 5 Years)
+Research Areas: AI/ML, VLSI, Structural Engineering, Renewable Energy, Software Engineering
+Supervisors: 100+ faculty with active research
+Funding: Research scholarships, RA/TA positions
+Eligible Departments: All engineering departments
+Annual Intake: 50+ PhD scholars
+
+---
+
+ONLINE & CERTIFICATE PROGRAMS
+1. AWS Solutions Architect Certification
+2. Google Cloud Professional Certification
+3. Blockchain & Cryptocurrency Fundamentals
+4. Data Science with Python (Certificate)
+5. Full-Stack Web Development (Certificate)
+6. IoT & Embedded Systems (Certificate)
+7. Cybersecurity Essentials (Certificate)
+8. Artificial Intelligence Fundamentals (Certificate)
+
+---
+
+CURRICULUM HIGHLIGHTS
+- Continuous Curriculum Updates: Reviews conducted every 2 years with industry input
+- Industry Expert Guest Lectures: Weekly sessions with practitioners
+- Capstone Projects: Real-world problem solving with industry mentors
+- Internship Integration: Mandatory industry internships in all programs
+- Research Paper Publication: Encouraged for BTech final year (100+ papers annually)
+- Skill Development: Coding, communication, leadership workshops every semester
+- Global Exposure: International exchange programs with 20+ universities
+- Entrepreneurship Track: Optional entrepreneurship minor for all students
+
+---
+
+CREDIT SYSTEM
+- All courses follow Choice-Based Credit System (CBCS)
+- Cumulative Grade Point Average (CGPA) based evaluation
+- Option to audit additional courses without grade
+- Internship and Projects carry academic credit
+- Flexible course selection within departmental requirements
